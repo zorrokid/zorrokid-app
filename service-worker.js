@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zorrokid-app/precache-manifest.2437e6b35c094d892008e30538782e51.js"
+  "/zorrokid-app/precache-manifest.914fbcc573d25238da1dfd72c08fdcd3.js"
 );
 
 self.addEventListener('message', (event) => {
